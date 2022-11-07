@@ -1,6 +1,6 @@
 # Yelp-clone built using React.js
 
-## To start:
+## To start
 
 ### `npm install`
 
